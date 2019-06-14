@@ -2,19 +2,24 @@
 Use at least one of each of the following types of selectors: element, class, id.*/
 #name{
     border: 2px solid red;
+    margin: auto;
 }
 
 body{
-    background-color: deepskyblue; 
+    background-color: deepskyblue;
     border: 5px dotted blue;
     width: 50%;
     text-align: center;
     margin: auto;
+    padding: 10px 50px;
 }
 
 h3{
     color: red;
 }
 p{
-    color: rgb(255, 230, 0) 
+    color: rgb(255, 230, 0)
+}
+.editor{
+  font-weight: bold;
 }
